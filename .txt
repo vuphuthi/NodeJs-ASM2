@@ -1,0 +1,7 @@
+Chức năng
+Thêm sản phẩm (cần Token)
+Đăng nhập 
+đăng kí
+HomePage
+DetailPage
+ListAdmin
